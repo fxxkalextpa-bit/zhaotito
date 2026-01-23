@@ -1,0 +1,4 @@
+* text=auto
+*.glb binary
+*.bin binary
+public/models/*.glb binary
